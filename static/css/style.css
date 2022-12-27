@@ -1,0 +1,17 @@
+body {
+    background-color: rgba(53, 84, 163, 0.97);
+  }
+  
+.newclass1 {
+    color: black;
+}
+
+.newclass2 {
+  color: white
+}
+
+.jumbotron {
+  background-image: url("/image.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+}
